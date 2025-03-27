@@ -25,18 +25,19 @@ Passionate about crafting scalable and efficient full-stack solutions using mode
 |-------------------|----------------|------------------|
 | [![GitHub Streak](https://streak-stats.demolab.com?user=ematty246&theme=tokyonight)](https://github.com/ematty246#contributions) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ematty246&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ematty246&layout=compact&theme=tokyonight) |
 
-## 📌 Pinned  
+## 📌 Pinned
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/ematty246/GatherHub">
-        <img src="https://cdn-icons-png.flaticon.com/128/1828/1828884.png" width="16"> <strong>AI Smart Water Reporting and Monitoring App</strong>
+    <td width="100%">
+      <a href="https://github.com/your-username/AI-Smart-Water-App">
+        <img src="https://cdn-icons-png.flaticon.com/128/1828/1828884.png" width="16"> <strong>AI Smart Water App</strong>
       </a>  
-      <br>
-      🟣 <strong>AI Smart Water Reporting and Monitoring App</strong>  
-      <br>
-      🌐 Public | 🟦 Flutter  
+      <br><br>
+      <span style="color: purple;">🟣 AI Smart Water Reporting and Monitoring App</span>  
+      <br><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/854/854997.png" width="16"> Public | 
+      <img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" width="16"> Flutter  
     </td>
   </tr>
 </table>
