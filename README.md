@@ -25,11 +25,22 @@ Passionate about crafting scalable and efficient full-stack solutions using mode
 |-------------------|----------------|------------------|
 | [![GitHub Streak](https://streak-stats.demolab.com?user=ematty246&theme=tokyonight)](https://github.com/ematty246#contributions) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ematty246&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ematty246&layout=compact&theme=tokyonight) |
 
-## Pinned  
+## 📌 Pinned  
 
-[![📱 AI Smart Water App](https://github.com/ematty246/GatherHub)](https://github.com/ematty246/GatherHub)  
-🟣 **AI Smart Water Reporting and Monitoring App**  
-🌐 Public | 🟦 Flutter  
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ematty246/GatherHub">
+        <img src="https://cdn-icons-png.flaticon.com/128/1828/1828884.png" width="16"> <strong>AI Smart Water Reporting and Monitoring App</strong>
+      </a>  
+      <br>
+      🟣 <strong>AI Smart Water Reporting and Monitoring App</strong>  
+      <br>
+      🌐 Public | 🟦 Flutter  
+    </td>
+  </tr>
+</table>
+
 
 ### 🌎 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ematty246)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-matthew-j-247186328)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ematty2006@gmail.com)
