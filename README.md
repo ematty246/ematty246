@@ -1,4 +1,5 @@
-[![My Image](https://github.com/ematty246/ematty246/blob/main/carbon%20(1).png?raw=true)](https://github.com/ematty246/ematty246/blob/main/carbon.png?raw=true)
+![My Image](https://github.com/ematty246/ematty246/blob/main/carbon.png?raw=true)
+
 
 ### 🚀 About Me
 Passionate about crafting scalable and efficient full-stack solutions using modern technologies. I specialize in **Java, Spring Boot, Microservices, FastAPI, Flutter, React, Three.js, and Flask** to build seamless applications. Always excited to solve real-world problems with clean code! ✨
