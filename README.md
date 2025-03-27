@@ -18,3 +18,7 @@ Passionate about crafting scalable and efficient full-stack solutions using mode
 |-------------------|----------------|------------------|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ematty246&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ematty246&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ematty246&layout=compact&theme=tokyonight) |
 
+
+### 📌 Pinned Project
+- [**AI Smart Water Reporting and Monitoring App**](https://github.com/ematty246/GatherHub) - Real-time water issue tracking and monitoring using AI & OpenStreetMap.
+
