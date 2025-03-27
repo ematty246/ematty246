@@ -1,11 +1,4 @@
-🚀 Emmanuel Matthew
+## 👋 Hey, I’m Emmanuel Matthew | Full-Stack Developer | Android Developer (Flutter) | Spring Boot & FastAPI Backend Architect
 
-Full-Stack Developer | Microservices Architect | AI Enthusiast
-
-I design and develop scalable, production-ready applications using Flutter, React, Spring Boot, and FastAPI. Passionate about clean code, microservices architecture, and AI-driven solutions that solve real-world problems.
-
-📦 What I’m Up To
-
-🚀 Building AI-Powered Solutions – Enhancing real-world applications with AI and automation.
-
-🛠 Open-Source Contributions – Actively contributing to Spring Boot, FastAPI, and Flutter projects.
+### 🚀 About Me
+Passionate about crafting scalable and efficient full-stack solutions using modern technologies. I specialize in **Java, Spring Boot, Microservices, FastAPI, Flutter, and React** to build seamless applications. Always excited to solve real-world problems with clean code! ✨
