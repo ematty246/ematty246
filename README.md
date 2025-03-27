@@ -6,6 +6,9 @@ I design and develop scalable, production-ready applications using Flutter, Reac
 🔥 What I Do
 
 📱 Mobile & Web Development → Flutter, React, three.js
+
 ⚙️ Backend Engineering → Spring Boot, FastAPI, Flask, Node.js
+
 💾 Databases → MySQL, PostgreSQL, Firebase
+
 🧠 AI & ML → OpenCV, TensorFlow
