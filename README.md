@@ -15,8 +15,7 @@ Passionate about crafting scalable and efficient full-stack solutions using mode
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ematty246&theme=tokyonight)
+| GitHub Streaks 🔥 | GitHub Stats 📈 | Used Languages 🚀 |
+|-------------------|----------------|------------------|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ematty246&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ematty246&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ematty246&layout=compact&theme=tokyonight) |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ematty246&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ematty246&layout=compact&theme=tokyonight)
