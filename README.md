@@ -6,9 +6,9 @@ Passionate about crafting scalable and efficient full-stack solutions using mode
 
 ### 📦 What I’m Up To:
 
-🚀 Working on **cutting-edge training platforms** to empower developers with hands-on experience.  
-🛠 Active **contributor to Spring Boot and Microservices**.  
-🎯 Stay engaged with **cricket, video games & innovative problem-solving**.  
+🚀 Building **engaging training platforms** that empower developers with hands-on learning experiences.  
+🛠 Contributing to **Spring Boot, Microservices, and TCF initiatives**.   
+🎯 Energized by **cricket, video games & tackling complex challenges**.  
 
 ### 🛠️ Tech Stack
 
