@@ -1,4 +1,4 @@
-🖼️ carbon(1).png
+![carbon(1).png](carbon(1).png)
 
 ### 🚀 About Me
 Passionate about crafting scalable and efficient full-stack solutions using modern technologies. I specialize in **Java, Spring Boot, Microservices, FastAPI, Flutter, React, Three.js, and Flask** to build seamless applications. Always excited to solve real-world problems with clean code! ✨
