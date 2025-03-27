@@ -29,19 +29,19 @@ Passionate about crafting scalable and efficient full-stack solutions using mode
 
 <table>
   <tr>
-    <td width="100%">
-      <a href="https://github.com/your-username/AI-Smart-Water-App">
-        <img src="https://cdn-icons-png.flaticon.com/128/1828/1828884.png" width="16"> <strong>AI Smart Water App</strong>
+    <td width="100%" style="border: 1px solid #333; padding: 10px; border-radius: 8px;">
+      <img src="https://cdn-icons-png.flaticon.com/128/2991/2991121.png" width="16">  
+      <a href="https://github.com/your-username/com.tcf.Microservices.Project1" style="color: #58a6ff; font-weight: bold;">
+        com.tcf.Microservices.Project1
       </a>  
+      <span style="background: #2d2d2d; color: #bbb; padding: 2px 6px; border-radius: 5px; font-size: 12px; margin-left: 10px;">
+        Public
+      </span>  
       <br><br>
-      <span style="color: purple;">🟣 AI Smart Water Reporting and Monitoring App</span>  
-      <br><br>
-      <img src="https://cdn-icons-png.flaticon.com/128/854/854997.png" width="16"> Public | 
-      <img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" width="16"> Flutter  
+      <img src="https://cdn-icons-png.flaticon.com/128/919/919854.png" width="16"> Java  
     </td>
   </tr>
 </table>
-
 
 ### 🌎 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ematty246)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-matthew-j-247186328)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ematty2006@gmail.com)
