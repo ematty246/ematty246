@@ -22,3 +22,10 @@ Passionate about crafting scalable and efficient full-stack solutions using mode
 ### 📌 Pinned Project
 - [**AI Smart Water Reporting and Monitoring App**](https://github.com/ematty246/GatherHub) - Real-time water issue tracking and monitoring using AI & OpenStreetMap.
 
+
+### 🌎 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ematty246)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-matthew)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuel.matthew@email.com)
+
+🚀 **Let’s Build the Future!**
+
+
