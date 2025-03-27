@@ -1,7 +1,7 @@
 ## 👋 Hey, I’m Emmanuel Matthew | Full-Stack Developer | Android Developer (Flutter) | Spring Boot & FastAPI Backend Architect
 
 ### 🚀 About Me
-Passionate about crafting scalable and efficient full-stack solutions using modern technologies. I specialize in **Java, Spring Boot, Microservices, FastAPI, Flutter, and React** to build seamless applications. Always excited to solve real-world problems with clean code! ✨
+Passionate about crafting scalable and efficient full-stack solutions using modern technologies. I specialize in **Java, Spring Boot, Microservices, FastAPI, Flutter, React, Three.js, and Flask** to build seamless applications. Always excited to solve real-world problems with clean code! ✨
 
 ### 🛠️ Tech Stack
 
@@ -18,14 +18,13 @@ Passionate about crafting scalable and efficient full-stack solutions using mode
 |-------------------|----------------|------------------|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ematty246&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ematty246&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ematty246&layout=compact&theme=tokyonight) |
 
-
 ### 📌 Pinned Project
 - [**AI Smart Water Reporting and Monitoring App**](https://github.com/ematty246/GatherHub) - Real-time water issue tracking and monitoring using AI & OpenStreetMap.
 
-
 ### 🌎 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ematty246)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-matthew)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuel.matthew@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ematty246)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-matthew)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ematty2006@gmail.com)
 
 🚀 **Let’s Build the Future!**
+
 
 
