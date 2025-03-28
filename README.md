@@ -21,21 +21,29 @@
 
 ## 🛠️ Technology Arsenal
 
-<details open>
-<summary><b>Expertise Overview</b></summary>
+<details>
+<summary>
+  <h3 style="display: inline">
+    <b>⚡ Expertise Overview</b>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35">
+  </h3>
+</summary>
 
-### Development Stack
+<div align="center">
+
+### 💻 Development Stack
 | Category | Technologies |
-|:--------:|-------------|
-| Backend | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
-| Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white) |
+|:--------:|:------------:|
+| <div style="width:150px">Backend</div> | <div style="width:600px">![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)</div> |
+| Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) |
 
-### Infrastructure & Data
+### 🏗️ Infrastructure & Data
 | Category | Technologies |
-|:--------:|-------------|
-| Architecture | ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=microservices&logoColor=white) ![Event-Driven](https://img.shields.io/badge/Event_Driven-7B1FA2?style=flat) ![RESTful APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat) |
-| Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+|:--------:|:------------:|
+| <div style="width:150px">Architecture</div> | <div style="width:600px">![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white) ![Event-Driven](https://img.shields.io/badge/Event_Driven-7B1FA2?style=for-the-badge) ![RESTful APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)</div> |
+| Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
+</div>
 </details>
 
 ## 📊 GitHub Analytics
