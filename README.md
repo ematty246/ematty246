@@ -1,43 +1,89 @@
-![My Image](https://github.com/ematty246/ematty246/blob/main/carbon.png?raw=true)
+<div align="center">
+  <img src="https://github.com/ematty246/ematty246/blob/main/carbon.png?raw=true" alt="Emmanuel Matthew" width="100%"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9596&random=false&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Expert;Microservices+Architect;Flutter+%26+React+Developer)](https://git.io/typing-svg)
+</div>
 
+## 👨‍💻 About Me
+> Passionate Software Architect and Full-Stack Developer with expertise in building scalable enterprise solutions. I thrive on crafting efficient systems using modern technologies and best practices. My focus lies in creating robust microservices architectures and delivering exceptional user experiences.
 
-### 🚀 About Me
-Passionate about crafting scalable and efficient full-stack solutions using modern technologies. I specialize in **Java, Spring Boot, Microservices, FastAPI, Flutter, React, Three.js, and Flask** to build seamless applications. Always excited to solve real-world problems with clean code! ✨
+### 🎯 Current Focus
+- 🔭 Leading development of enterprise-scale training platforms
+- 🌱 Exploring advanced patterns in Microservices Architecture
+- 👯 Looking to collaborate on Open Source Spring Boot projects
+- 💬 Ask me about `Java`, `Spring Boot`, `Microservices`, `Flutter`, or `System Design`
 
+## 🛠️ Technology Arsenal
 
-### 📦 What I’m Up To:
+<details>
+<summary>Click to expand!</summary>
 
-🚀 Building **engaging training platforms** that empower developers with hands-on learning experiences.  
-🛠 Contributing to **Spring Boot, Microservices, and TCF initiatives**.   
-🎯 Energized by **cricket, video games & tackling complex challenges**.  
+### Languages & Frameworks
+```javascript
+{
+  "languages": ["Java", "Python", "JavaScript", "Dart", "C"],
+  "frameworks": {
+    "backend": ["Spring Boot", "FastAPI", "Flask"],
+    "frontend": ["React", "Flutter", "Three.js"],
+    "testing": ["JUnit", "Mockito", "PyTest"]
+  },
+  "architecture": ["Microservices", "Event-Driven", "RESTful APIs"],
+  "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  "tools": ["Docker", "Kubernetes", "Jenkins", "Git"]
+}
+```
 
-### 🛠️ Tech Stack
+### Expertise Level
+- ⭐⭐⭐⭐⭐ Java & Spring Boot
+- ⭐⭐⭐⭐⭐ Microservices Architecture
+- ⭐⭐⭐⭐☆ Flutter & React
+- ⭐⭐⭐⭐☆ FastAPI & Python
+- ⭐⭐⭐⭐☆ System Design
+</details>
 
-| Category                | Technologies |
-|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) |
-| **Frameworks & Libraries** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Version Control & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+## 📊 GitHub Analytics
 
-### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ematty246&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ematty246&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-| GitHub Streaks 🔥 | GitHub Stats 📈 | Used Languages 🚀 |
-|-------------------|----------------|------------------|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=ematty246&theme=tokyonight)](https://github.com/ematty246#contributions) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ematty246&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ematty246&layout=compact&theme=tokyonight) |
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ematty246&theme=tokyonight)](https://github.com/ematty246#contributions)
+  
+  [![Emmanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ematty246&theme=react)](https://github.com/ematty246/github-readme-activity-graph)
+</div>
 
-## 🚀 Contribution Graph  
+## 🎯 Featured Projects
 
-![Emmanuel Matthew Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ematty246&theme=react)
+<div align="center">
 
-### 📌 Pinned Project
-- [**AI Smart Water Reporting and Monitoring App**](https://github.com/ematty246/GatherHub) - Real-time water issue tracking and monitoring using AI & OpenStreetMap.
+[![AI Smart Water](https://github-readme-stats.vercel.app/api/pin/?username=ematty246&repo=GatherHub&theme=tokyonight)](https://github.com/ematty246/GatherHub)
 
-### 🌎 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ematty246)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-matthew-j-247186328)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ematty2006@gmail.com)
+</div>
 
+### 🌟 Key Features of AI Smart Water
+- 🤖 AI-powered issue detection and classification
+- 🗺️ Real-time mapping with OpenStreetMap integration
+- 📊 Advanced analytics and reporting dashboard
+- 📱 Cross-platform mobile application
 
-🚀 **Let’s Build the Future!**
+## 🤝 Let's Connect
 
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ematty246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-matthew-j-247186328)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ematty2006@gmail.com)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ematty246&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</div>
+
+> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
