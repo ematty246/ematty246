@@ -134,36 +134,3 @@
 
 > *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-<style>
-@keyframes slideIn {
-  from {
-    transform: translateY(20px);
-    opacity: 0;
-  }
-  to {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-@keyframes pulse {
-  0% {
-    background: linear-gradient(45deg, #1a1b27, #2a2b37);
-  }
-  50% {
-    background: linear-gradient(45deg, #2a2b37, #1a1b27);
-  }
-  100% {
-    background: linear-gradient(45deg, #1a1b27, #2a2b37);
-  }
-}
-</style>
