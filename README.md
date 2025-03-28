@@ -20,31 +20,62 @@
 <br clear="right">
 
 ## 🛠️ Technology Arsenal
-
-<details>
-<summary>
-  <h3 style="display: inline">
-    <b>⚡ Expertise Overview</b>
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35">
-  </h3>
-</summary>
-
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" style="margin-bottom: 20px"/>
+</div>
+
+<div align="center" style="animation: fadeIn 2s ease-in-out;">
 
 ### 💻 Development Stack
-| Category | Technologies |
-|:--------:|:------------:|
-| <div style="width:150px">Backend</div> | <div style="width:600px">![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)</div> |
-| Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) |
+<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 0 15px; animation: slideIn 1s ease-in-out;">
+  <tr style="background: linear-gradient(45deg, #1a1b27, #2a2b37); animation: pulse 2s infinite;">
+    <th width="200" align="center" style="padding: 20px; border-radius: 10px 0 0 10px;">Category</th>
+    <th width="800" align="center" style="padding: 20px; border-radius: 0 10px 10px 0;">Technologies</th>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 10px 0 0 10px;"><b>Backend</b></td>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 0 10px 10px 0;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 10px 0 0 10px;"><b>Frontend</b></td>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 0 10px 10px 0;">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+    </td>
+  </tr>
+</table>
 
 ### 🏗️ Infrastructure & Data
-| Category | Technologies |
-|:--------:|:------------:|
-| <div style="width:150px">Architecture</div> | <div style="width:600px">![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white) ![Event-Driven](https://img.shields.io/badge/Event_Driven-7B1FA2?style=for-the-badge) ![RESTful APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)</div> |
-| Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 0 15px; animation: slideIn 1s ease-in-out;">
+  <tr style="background: linear-gradient(45deg, #1a1b27, #2a2b37); animation: pulse 2s infinite;">
+    <th width="200" align="center" style="padding: 20px; border-radius: 10px 0 0 10px;">Category</th>
+    <th width="800" align="center" style="padding: 20px; border-radius: 0 10px 10px 0;">Technologies</th>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 10px 0 0 10px;"><b>Architecture</b></td>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 0 10px 10px 0;">
+      <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="RESTful APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 10px 0 0 10px;"><b>Databases</b></td>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 0 10px 10px 0;">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+  </tr>
+</table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" style="margin-top: 20px;">
 </div>
-</details>
 
 ## 📊 GitHub Analytics
 
@@ -102,3 +133,37 @@
 </div>
 
 > *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+<style>
+@keyframes slideIn {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    background: linear-gradient(45deg, #1a1b27, #2a2b37);
+  }
+  50% {
+    background: linear-gradient(45deg, #2a2b37, #1a1b27);
+  }
+  100% {
+    background: linear-gradient(45deg, #1a1b27, #2a2b37);
+  }
+}
+</style>
