@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">  
   <img src="https://github.com/ematty246/ematty246/blob/main/carbon.png?raw=true" alt="Emmanuel Matthew" width="100%"/>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9596&random=false&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot;Microservices+Architect;Flutter+%26+React+Developer)](https://git.io/typing-svg)
