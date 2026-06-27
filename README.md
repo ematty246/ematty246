@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=AI%20%26%20ML%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20systems%20that%20solve%20real-world%20problems&descAlignY=55&descAlign=50" width="100%"/>
+<h1>🤖 AI & ML Engineer</h1>
+<p><em>Building intelligent systems that solve real-world problems</em></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&random=false&width=500&lines=Artificial+Intelligence+Engineer;Machine+Learning+%26+Deep+Learning;NLP+%7C+Generative+AI+%7C+Computer+Vision;LLMs+%7C+RAG+%7C+AI+Agents)](https://git.io/typing-svg)
 
@@ -174,10 +175,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ematty246&label=Profile%20views&color=6366F1&style=flat" alt="profile-views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
 </div>
 
 > *"The goal of AI is not to replace human intelligence, but to augment it."*
